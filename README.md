@@ -1,6 +1,6 @@
 # Hello there
 - 👀 I’m interested in all about technology
-- 🌱 I’m currently learning C and python
+- 🌱 I’m currently learning C, shell scripting and python
 
 ---
 
