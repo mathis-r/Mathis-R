@@ -4,4 +4,4 @@
 - ♟️  ~~I hope I can finish my chess engine before the end of the year~~ I finished the engine the 04/25/2023 ! Now, it's time to make it better 😁 !
 ---
 
-*Also I don't know what else I can put here 🤔...*
+*Also I don't know what else I can put here* 🤔 *...*
